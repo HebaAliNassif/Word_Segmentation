@@ -1,2 +1,2 @@
 # Word_Segmentation
-Word Segmentation with Dynamic Programming
+Word Segmentation using a Dynamic Programming approach.
